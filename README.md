@@ -1,6 +1,6 @@
 # DragCloseDemo1
 仿微信图片手势关闭Demo
-
+实现过程：https://www.jianshu.com/p/297e6af61ee6
 实现效果：
 
 
